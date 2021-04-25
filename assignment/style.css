@@ -1,0 +1,26 @@
+h2 {
+  background-color: Green;
+  color: Blue;
+  text-align: center;
+}
+
+
+h3 {
+  background-color: Black;
+  color: White;
+  text-align: center;
+}
+
+img {
+  border-top: 10px solid Red;
+  border-bottom: 10px solid Red;
+  border-left: 10px solid Red;
+  border-right: 10px solid Red;
+}
+
+a {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
