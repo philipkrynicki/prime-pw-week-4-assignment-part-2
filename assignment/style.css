@@ -2,6 +2,8 @@ h2 {
   background-color: Green;
   color: Blue;
   text-align: center;
+  margin: auto;
+  width: 50%;
 }
 
 
@@ -9,18 +11,17 @@ h3 {
   background-color: Black;
   color: White;
   text-align: center;
+  margin: auto;
+  width: 50%
 }
 
 img {
-  border-top: 10px solid Red;
-  border-bottom: 10px solid Red;
-  border-left: 10px solid Red;
-  border-right: 10px solid Red;
+  border: 10px solid Red;
 }
 
 a {
+  text-align: center;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 50%;
 }
